@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ROWSET>
+ <ROW>
+  <USERNAME>arpit</USERNAME>
+  <ORDER_ID>12</ORDER_ID>
+  <CART_ID>13</CART_ID>
+ </ROW>
+ <ROW>
+  <USERNAME>arpit</USERNAME>
+  <ORDER_ID>59</ORDER_ID>
+  <CART_ID>27</CART_ID>
+ </ROW>
+ <ROW>
+  <USERNAME>arpit</USERNAME>
+  <ORDER_ID>42</ORDER_ID>
+  <CART_ID>36</CART_ID>
+ </ROW>
+</ROWSET>
